@@ -11,43 +11,50 @@
             "id":2,
             "name":"Banana",
              "image":"https://metrob2b-storage.azureedge.net/products/192242/primary.jpg",
-             "discount":"-33%"
+             "discount":"-33%",
+             "quantity":"kg"
         },
         {
             "id":3,
             "name":"Tomato",
             "image":"https://enviesdafrique.fr/wp-content/uploads/2020/07/GRAPPE.jpg",
-            "discount":"-45%"
+            "discount":"-45%",
+            "quantity":"kg"
         },
         {
             "id":4,
             "name":"Orange",
             "image":"https://enviesdafrique.fr/wp-content/uploads/2023/03/orange-de-table-feuille-scaled-1.jpg",
-            "discount":"-56%" 
+            "discount":"-56%",
+            "quantity":"kg" 
         },
         {
             "id":5,
             "name":"Milk",
             "image":"https://m.media-amazon.com/images/I/71FzKxg4a5L._SX679_.jpg",
-            "discount":"-18%" 
+            "discount":"-18%",
+            "quantity":"kg" 
         },
         {
             "id":6,
             "name":"Grapes",
             "image":"https://m.media-amazon.com/images/I/61CHgj1Xw9S._AC_SX569_.jpg",
-            "discount":"-33%" 
+            "discount":"-33%",
+            "quantity":"kg" 
         },
         {
             "id":7,
             "name":"Almonds",
             "image":"https://m.media-amazon.com/images/I/71Fl-fEl2yL._SX679_.jpg",
-            "discount":"-13%" 
+            "discount":"-13%" ,
+            "quantity":"kg"
         },
         {
             "id":8,
             "name":"Carrots",
             "image":"https://m.media-amazon.com/images/I/81WFZ0GpMqL._SY679_.jpg",
-            "discount":"-44%" 
+            "discount":"-44%" ,
+            "quantity":"kg"
         }
        
         
