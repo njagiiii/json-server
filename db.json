@@ -60,6 +60,37 @@
             "name":"Lemon",
             "image":"https://m.media-amazon.com/images/I/21eX2vXojGL.jpg",
             "discount":"-5%" 
+        },
+        {
+            "id":11,
+            "name":"Meat",
+            "image":"https://cdnprod.mafretailproxy.com/sys-master-root/hda/h8d/16872339177502/29616_main.jpg_1700Wx1700H?im=Resize=400",
+            "discount":"-5%" 
+        },
+        {
+            "id":12,
+            "name":"Chicken",
+            "image":"https://cdnprod.mafretailproxy.com/sys-master-root/hb7/ha3/16975796404254/35119_main.jpg_1700Wx1700H?im=Resize=400",
+            "discount":"-5%" 
+        },
+        
+        {
+            "id":13,
+            "name":"Avacado",
+            "image":"https://cdnprod.mafretailproxy.com/sys-master-root/h50/hc0/16872768471070/1369_main.jpg_1700Wx1700H?im=Resize=400",
+            "discount":"-5%" 
+        },
+        {
+            "id":14,
+            "name":"Pears",
+            "image":"https://cdnprod.mafretailproxy.com/sys-master-root/h6c/h7b/26449778901022/1308_main.jpg_1700Wx1700H?im=Resize=400",
+            "discount":"-5%" 
+        },
+        {
+            "id":15,
+            "name":"Mango",
+            "image":"https://cdnprod.mafretailproxy.com/sys-master-root/h14/h09/17384840003614/1406_1.jpg_1700Wx1700H?im=Resize=400",
+            "discount":"-5%" 
         }
 
     ]
